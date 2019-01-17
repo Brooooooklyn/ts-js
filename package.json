@@ -1,0 +1,36 @@
+{
+  "name": "ts-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LongYinan <lynweklm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-dom": "^16.0.11",
+    "@types/webpack": "^4.4.23",
+    "autoprefixer": "^9.4.5",
+    "circular-dependency-plugin": "^5.0.2",
+    "css-loader": "^2.1.0",
+    "cssnano": "^4.1.8",
+    "happypack": "^5.0.1",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "moment-locales-webpack-plugin": "^1.0.7",
+    "postcss-loader": "^3.0.0",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^0.23.1",
+    "ts-import-plugin": "^1.5.5",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14",
+    "webpack-plugin-hash-output": "^3.2.0"
+  },
+  "dependencies": {
+    "antd": "^3.12.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "tslib": "^1.9.3"
+  }
+}
